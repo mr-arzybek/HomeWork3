@@ -4,6 +4,7 @@ class Bank:
         self._name = name
         self._balanse = balanse
 
+
     def moneyX(self):
         ad = input(f'сколько добавишь к своим {self._balanse} введи сумму: ')
         print(self._balanse + int(ad))
