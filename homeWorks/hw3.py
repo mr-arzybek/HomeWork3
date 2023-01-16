@@ -43,8 +43,6 @@ class Bank:
               f'было{self._balanse}')
 
 
-
-
 bank = Bank('mbank', 20)
 load = Bank('optima', 100)
 bank.moneyX()

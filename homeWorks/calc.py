@@ -23,15 +23,3 @@ print(on.add())
 print(on.sub())
 print(on.mull())
 print(on.truediv())
-
-
-
-
-
-
-
-
-
-
-
-
