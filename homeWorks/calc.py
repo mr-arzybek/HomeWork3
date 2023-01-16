@@ -16,9 +16,22 @@ class Calk:
         return self.numberone / self.numbertwo
 
 
+
 on =Calk(15 ,45)
 print(on.add())
 
 print(on.sub())
 print(on.mull())
 print(on.truediv())
+
+
+
+
+
+
+
+
+
+
+
+
